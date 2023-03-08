@@ -1,30 +1,47 @@
-#app {
+#contact iframe
+{
     width: 100%;
-    height: 800px;
-    background-color: aliceblue;
 }
-
-.container
+.contact_1 h3
 {
-    text-align: center;
+    display: inline;
 }
-
-#myCarousel
+.contact_1 a
 {
-    background-color: burlywood;
-    
+    text-shadow: none;
 }
  
-#myCarousel img
+input
 {
-    height: 300px;
-    margin-top: 35px;
+    background: grey
 }
 
-.carousel inner p
+
+.nutrition_li
 {
-    margin-bottom: 15px;
-    margin-top: 15px;
-    color: black;
-    font-size: 20px;
+  margin-top: 13px;
 }
+
+.nutrition_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.nutrition_li img
+{
+  border-radius: 25px;
+}
+
+.nutrition_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+
+
